@@ -6,3 +6,5 @@ Tenhle repozitář je prázdný a obsahuje:
 - nulu
 - NULL
 - vůbec nic
+
+## Druhý podnadpis
